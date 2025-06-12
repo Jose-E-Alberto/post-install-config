@@ -43,7 +43,15 @@ Login to the osTicket Admin Panel.
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  
+To add a new role:
+- Make sure you are in the Admin panel (check the top-right of the screen to see which panel you are in)
+- If it says "Agent," you are in the Admin panel
+- Select the Agent tab > Roles > Add New Role
+- Name: Supreme Admin (or any name you'd like)
+- Select Permissions tab and check every box under the "Tickets," "Tasks," and "Knowledgebase" sections
+- Select Add Role.
+  
 </p>
 <br />
 
@@ -53,7 +61,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  
+To add a new department
+- From the Admin panel
+- Select the Agent tab > Departments > Add New Department
+- Name: SysAdmin
+- Select Create Department
+
 </p>
 <br />
 
