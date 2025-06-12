@@ -87,15 +87,20 @@ To create a new Team
 <br />
 
 <p>
-
-<p>
   
 ![Screenshot 2025-06-12 175059](https://github.com/user-attachments/assets/2da3c0ba-f651-4589-aa55-8b5aa0e4509a)
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  
+To allow anyone to create tickets
+- From the Admin Panel. Seclect "Settings"
+- Select "User Settings"
+- UNCHECK: "unregistered users can create tickets"
+  - Make sure this box is NOT checked
+    - Registration Required: Require registration and login to create tickets
 </p>
+
 <br />
   
 ![image](https://github.com/user-attachments/assets/2da98bb8-828d-4e4b-92e4-1407ed426162)
