@@ -96,7 +96,7 @@ To create a new Team
 To allow anyone to create tickets
 - From the Admin Panel. Seclect "Settings"
 - Select "User Settings"
-- UNCHECK: "unregistered users can create tickets"
+- UNCHECK: "registration required"
   - Make sure this box is NOT checked
     - Registration Required: Require registration and login to create tickets
 </p>
@@ -107,7 +107,37 @@ To allow anyone to create tickets
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+To add a new agent
+- From the Admin Panel, Select the Agent tab > Add New Agents
+- Name: Jane Doe (any name)
+- Email : jane.doe(@)gmail.com (any email)
+- Username: jane (any username)
+- Click Set Password and uncheck the box that says "Send the Agent a Password Reset Email"
+- Create a new password. Make sure to keep track on all passwords
+- Uncheck the box that says "Require Password Change at Next Login"
+- Select set
+
+</p>
+<br />
+
+<p>
+  
+![image](https://github.com/user-attachments/assets/1f9205f7-eab4-4095-a5fe-5f89a5297f01)
+
+</p>
+<p>
+  
+- Select the Access tab
+- Under Primary Department:
+- Select the Department dropdown menu > SysAdmin
+- Select the Role dropdown menu > Supreme Admin
+
+To create another agent (John Doe)
+- Follow the same steps as above, except make some changes to the Primary Department
+- Select the Department dropdown menu > Support
+- Select the Role dropdown menu > View Only
+
 </p>
 <br />
 
