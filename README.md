@@ -143,11 +143,48 @@ To create another agent (John Doe)
 
 <p>
   
+![image](https://github.com/user-attachments/assets/d913c24b-5114-41ac-9203-e70592a4cb1e)
+
+</p>
+<p>
+To add users  
+- From the Agen panel -> Select the Users tab -> Add User
+- Email Address: any email you'd like
+- Full Name: Karen (any name)
+- Select Add User
+  
+</p>
+<br />
+
+
+<p>
+  
 ![image](https://github.com/user-attachments/assets/85a775eb-6da8-41d6-96b8-c275cf857bd1)
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  
+To configure SLAs
+- From Admin Panle -> Manage -> SLA -> Add New
+
+Sev A
+- Name: SEV-A
+- Grace Period: 1 hour
+- Schedule dropdown menu: 24/7
+- Select Add Plan
+
+Sev B
+- Name: SEV-B
+- Grace Period: 4
+- Schedule dropdown menu: 24/7
+- Select Add Plan
+
+Sev C
+- Name: SEV-C 
+- Grace Period: 8
+- Schedule dropdown menu: Monday - Friday 8AM - 5PM with U.S. Holidays
+- Select Add Plan
+
 </p>
 <br />
 
