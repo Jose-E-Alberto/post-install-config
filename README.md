@@ -44,7 +44,7 @@ Login to the osTicket Admin Panel.
 </p>
 <p>
   
-To add a new role:
+To create a new role:
 - Make sure you are in the Admin panel (check the top-right of the screen to see which panel you are in)
 - If it says "Agent," you are in the Admin panel
 - Select the Agent tab > Roles > Add New Role
@@ -62,7 +62,7 @@ To add a new role:
 </p>
 <p>
   
-To add a new department
+To create a new department
 - From the Admin panel
 - Select the Agent tab > Departments > Add New Department
 - Name: SysAdmin
@@ -73,15 +73,30 @@ To add a new department
 
 <p>
   
-![Screenshot 2025-06-12 175059](https://github.com/user-attachments/assets/be23f733-448b-4e41-a151-276713966dde)
+![Screenshot 2025-06-12 174911](https://github.com/user-attachments/assets/29f06dbc-42bf-436f-b691-c3dd6b83ee93)
+
+</p>
+<p>
+  
+To create a new Team
+- Select the Agent tab > Teams > Add New Team
+- Name: Online Banking
+- Go to the Members tab and you can select yourself in "Select Agent" dropdown menu
+- Select Create Team
+</p>
+<br />
+
+<p>
+
+<p>
+  
+![Screenshot 2025-06-12 175059](https://github.com/user-attachments/assets/2da3c0ba-f651-4589-aa55-8b5aa0e4509a)
 
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
-
-<p>
   
 ![image](https://github.com/user-attachments/assets/2da98bb8-828d-4e4b-92e4-1407ed426162)
 
